@@ -1,4 +1,2 @@
 # Component_Finder
-Program that manages ones PC components 
-I created this program some time ago (Winter 2016) it makes use of password protection, 
-mySQL database and in my opinion a decent GUI. 
+A program that helps the user find computer parts. The parts can be filtered by certain categories or searched for, to ensure that the user gets the parts they want. The program implements the Java Abstarct Window Toolkit (AWT) to establish an interactive environment between program and user. The program uses sql tables to store the different component information, which is then retrived once the user requests it.
